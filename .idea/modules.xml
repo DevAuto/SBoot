@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloBoot.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloBoot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloBoot_main.iml" group="HelloBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloBoot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloBoot_test.iml" group="HelloBoot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RepeatHello.iml" filepath="$PROJECT_DIR$/.idea/modules/RepeatHello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RepeatHello_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RepeatHello_main.iml" group="RepeatHello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RepeatHello_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RepeatHello_test.iml" group="RepeatHello" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SBoot.iml" filepath="$PROJECT_DIR$/.idea/modules/SBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Test_main.iml" group="Test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Test_test.iml" group="Test" />
+    </modules>
+  </component>
+</project>
